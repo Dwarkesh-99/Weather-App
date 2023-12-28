@@ -41,5 +41,4 @@ These instructions will help you set up and run the Todo List app on your local 
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/Dwarkesh-99/Weather-App.git
